@@ -25,6 +25,7 @@ markupsafe==3.0.3
 matplotlib==3.10.8
 matplotlib-inline==0.2.1
 ml-dtypes==0.5.4
+narwhals==2.15.0
 nest-asyncio==1.6.0
 numba==0.63.1
 numpy==2.2.0
@@ -36,6 +37,7 @@ parso==0.8.5
 pexpect==4.9.0
 pillow==12.1.0
 platformdirs==4.5.1
+plotly==6.5.0
 prompt-toolkit==3.0.52
 psutil==7.2.1
 ptyprocess==0.7.0
